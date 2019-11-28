@@ -61,5 +61,11 @@
     "should": "latest",
     "supertest": "^3.0.0",
     "js-yaml": ">=3.13.1"
+  },
+  "resolutions": {
+    "mongodb": "^3.3.4-rc0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.1.2"
   }
 }
